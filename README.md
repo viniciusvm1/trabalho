@@ -39,7 +39,7 @@ Para executar ou modificar o projeto, é necessário:
 1. Clone este repositório:
 
 ```bash
-git clone URL_DO_SEU_REPOSITORIO
+git clone (https://github.com/viniciusvm1/trabalho.git)
 ```
 
 2. Abra o arquivo `WindowsFormsApp1.csproj` no Visual Studio.
