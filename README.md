@@ -25,23 +25,6 @@ Aplicação desktop desenvolvida para auxiliar no gerenciamento das principais a
 - ADO.NET
 - Visual Studio
 
-## Estrutura do projeto
-
-```text
-WindowsFormsApp1/
-├── Assets/                 # Imagens e recursos visuais
-├── Domain/
-│   └── Models/             # Classes e modelos do sistema
-├── Infrastructure/
-│   └── Data/               # Acesso ao banco de dados
-├── Presentation/
-│   ├── Forms/              # Telas da aplicação
-│   └── UI/                 # Tema e componentes de interface
-├── Dependencies/           # Dependências necessárias
-├── Program.cs              # Ponto de entrada
-└── WindowsFormsApp1.csproj
-```
-
 ## Requisitos
 
 Para executar ou modificar o projeto, é necessário:
